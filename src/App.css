@@ -1,0 +1,16 @@
+body {
+  color: #343a40;
+}
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.active {
+  font-weight: bold;
+  color: #C77F65;
+}
+h1 {
+  border-bottom: 4px solid #C77F65;
+  padding-bottom: 20px;
+}
